@@ -423,6 +423,8 @@ h6 {
 }
 
 .footer .text-box {
+  display: flex;
+  flex-direction: column;
   margin-right: 120px;
 }
 
